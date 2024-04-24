@@ -1,4 +1,4 @@
-# EXP 2
+
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
